@@ -8,3 +8,4 @@ Second local edit
 Third local edit
 New third local
 Remote change
+Another local change
