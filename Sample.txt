@@ -1,0 +1,6 @@
+This is a test code
+<<<<<<< HEAD
+Edit from local dt
+=======
+Edited online
+>>>>>>> ff33b8b96ebd7a56ae525505806dadfcbfddb5b4
